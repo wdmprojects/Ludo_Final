@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f6486d9b2920d4ed5ad727b2af6e25a5
+timeCreated: 1518682424
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 'ChAUde-SoUriE  '
+  fontNames:
+  - 'ChAUde-SoUriE  '
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

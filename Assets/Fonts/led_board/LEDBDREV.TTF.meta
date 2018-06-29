@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c9ba6f45cebd641518647b8242915171
+timeCreated: 1518707360
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: LED BOARD REVERSED
+  fontNames:
+  - LED BOARD REVERSED
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

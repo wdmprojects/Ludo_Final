@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 78d3d6471e6f749f3b2216138326c34a
+timeCreated: 1518707349
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: G.I. Incognito 3D Italic
+  fontNames:
+  - G.I. Incognito 3D Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

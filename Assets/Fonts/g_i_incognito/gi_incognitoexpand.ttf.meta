@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ec71852a5292d49fd91a2902863bbe5e
+timeCreated: 1518707349
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: G.I. Incognito Expanded
+  fontNames:
+  - G.I. Incognito Expanded
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

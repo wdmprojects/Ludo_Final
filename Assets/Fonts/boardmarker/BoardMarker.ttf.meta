@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9dab1b05cdf334d838cf6aed70ca2a03
+timeCreated: 1518707256
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BoardMarker
+  fontNames:
+  - BoardMarker
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

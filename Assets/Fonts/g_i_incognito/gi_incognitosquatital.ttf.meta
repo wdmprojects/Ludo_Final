@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b36cc97332c464345aa55e51b58f00d0
+timeCreated: 1518707349
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: G.I. Incognito Squat Italic
+  fontNames:
+  - G.I. Incognito Squat Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

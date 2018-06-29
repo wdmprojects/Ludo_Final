@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9dbab00c437a740ce943c6a7efa73420
+timeCreated: 1518707347
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: dPoly Block Dice
+  fontNames:
+  - dPoly Block Dice
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
